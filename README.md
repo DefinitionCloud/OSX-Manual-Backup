@@ -1,5 +1,6 @@
 # OSX Manual Backup
 A checklist of everything I need before I leave a Mac.
+When I don't want to use Time Machine for a fulll backup.
 
 ## Backups 
 - [ ] Backup applications settings
