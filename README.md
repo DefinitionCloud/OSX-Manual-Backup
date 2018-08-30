@@ -1,5 +1,5 @@
 # OSX Manual Backup
-Everything I need before I leave a Mac.
+A checklist of everything I need before I leave a Mac.
 
 ## Backups 
 - [ ] Backup applications settings
